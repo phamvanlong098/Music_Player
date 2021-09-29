@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Early Hours",
+        "singer": "ikson",
+        "path": "./assets/music/EarlyHours.mp3",
+        "image": "./assets/img/EarlyHours.jpg"
+    },
+    {
+        "name": "Do It",
+        "singer": "ikson",
+        "path": "./assets/music/DoIt.mp3",
+        "image": "./assets/img/DoIt.jpg"
+    },
+    {
+        "name": "Lights",
+        "singer": "ikson",
+        "path": "./assets/music/Lights.mp3",
+        "image": "./assets/img/Lights.jpg"
+    },
+    {
+        "name": "Fresh",
+        "singer": "ikson",
+        "path": "./assets/music/Fresh.mp3",
+        "image": "./assets/img/Fresh.jpg"
+    },
+    {
+        "name": "Think U Know",
+        "singer": "ikson",
+        "path": "./assets/music/ThinkUKnow.mp3",
+        "image": "./assets/img/ThinkUKnow.jpg"
+    },
+    {
+        "name": "Breeze",
+        "singer": "ikson",
+        "path": "./assets/music/Breeze.mp3",
+        "image": "./assets/img/Breeze.jpg"
+    },
+    {
+        "name": "Paradise",
+        "singer": "ikson",
+        "path": "./assets/music/Paradise.mp3",
+        "image": "./assets/img/Paradise.jpg"
+    },
+    {
+        "name": "Coast Line",
+        "singer": "ikson",
+        "path": "./assets/music/CoastLine.mp3",
+        "image": "./assets/img/CoastLine.jpg"
+    },
+    {
+        "name": "Sunny",
+        "singer": "ikson",
+        "path": "./assets/music/Sunny.mp3",
+        "image": "./assets/img/Sunny.jpg"
+    },
+    {
+        "name": "New Day",
+        "singer": "ikson",
+        "path": "./assets/music/NewDay.mp3",
+        "image": "./assets/img/NewDay.jpg"
+    },
+    {
+        "name": "Last Summer",
+        "singer": "ikson",
+        "path": "./assets/music/LastSummer.mp3",
+        "image": "./assets/img/LastSummer.jpg"
+    },
+    {
+        "name": "Blue Sky",
+        "singer": "ikson",
+        "path": "./assets/music/BlueSky.mp3",
+        "image": "./assets/img/BlueSky.jpg"
+    },
+    {
+        "name": "Anywhere",
+        "singer": "ikson",
+        "path": "./assets/music/Anywhere.mp3",
+        "image": "./assets/img/Anywhere.jpg"
+    }
+
+]
