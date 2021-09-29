@@ -69,8 +69,8 @@ var app = {
         {
             "name": "Coast Line",
             "singer": "ikson",
-            "path": "./assets/music/CoastLine.mp3",
-            "image": "./assets/img/CoastLine.jpg"
+            "path": "./assets/music/Coastline.mp3",
+            "image": "./assets/img/Coastline.jpg"
         },
         {
             "name": "Sunny",
@@ -259,6 +259,9 @@ var app = {
         // change range when audio play
         audio.ontimeupdate = function() {
             slideRange.value = Math.floor(audio.currentTime / audio.duration * 10000);
+            if(audio.duration - audio.currentTime < 1) {
+                !_this.loop? _this.nextTrack(): "";
+            }
         }
 
         // slide the range = khi tua
